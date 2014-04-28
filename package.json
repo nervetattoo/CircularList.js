@@ -1,6 +1,6 @@
 {
   "name": "clist",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Circular list structure",
   "main": "index.js",
   "scripts": {

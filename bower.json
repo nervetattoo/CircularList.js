@@ -1,0 +1,20 @@
+{
+  "name": "CircularList",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nervetattoo/CircularList.js",
+  "authors": [
+    "Raymond Julin <raymond.julin@gmail.com>"
+  ],
+  "description": "Minimal CircularList for JavaScript",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "list",
+    "circular"
+  ],
+  "license": "MIT"
+}
