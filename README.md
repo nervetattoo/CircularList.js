@@ -1,5 +1,7 @@
 # A minimal Circular Linked List in javascript
 
+[![Build Status](https://travis-ci.org/nervetattoo/CircularList.js.svg?branch=master)](https://travis-ci.org/nervetattoo/CircularList.js)
+
 This **only** aims at solving iterating the list, in order to handle transformations use native array methods and reset the data structure.
 
 ```js
