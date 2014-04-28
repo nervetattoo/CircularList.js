@@ -5,7 +5,7 @@
 This **only** aims at iterating a list, in order to handle transformations use native array methods and reset the data structure.
 
 ```js
-var CircularList = require('CircularList');
+var CircularList = require('circularlist');
 
 var list = new CircularList([1, 2, 3, 4]);
 
@@ -26,7 +26,7 @@ list.reset(list.toArray().slice(1)); // [1, 2, 3]
 
 ## Supported environments:
 
-* node: `var CircularList = require('CircularList');`
+* node: `var CircularList = require('circularlist');`
 * browser:
     * AMD: `define(['CircularList'], function(CircularList) {});`
     * Global: `window.CircularList`

@@ -1,5 +1,5 @@
 {
-  "name": "clist",
+  "name": "circularlist",
   "version": "0.1.0",
   "description": "Circular list structure",
   "main": "index.js",
