@@ -13,6 +13,7 @@ list.next() // 1
 list.next() // 2
 list.prev() // 1
 list.last() // 4
+list.next() // 1
 
 // Modify list by resetting
 
